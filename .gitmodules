@@ -1,3 +1,6 @@
 [submodule "presentations/2025/RAGwMuktiTesting/LanguageModelsSeminar"]
 	path = presentations/2025/RAGwMuktiTesting/LanguageModelsSeminar
 	url = https://github.com/YarinShitrit/LanguageModelsSeminar.git
+[submodule "presentations/2025/VariationalAutoEncoder/LM-VAE"]
+	path = presentations/2025/VariationalAutoEncoder/LM-VAE
+	url = https://github.com/TopazFreizeit/LM-VAE.git
